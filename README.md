@@ -11,8 +11,8 @@ Quando não estou codificando, você provavelmente me encontrará na cozinha tes
 Estou aprimorando meu conhecimento nas seguintes áreas:
 
 **Linguagens de Programação:**
-☕ Java 
-🐍 Python
+☕ Java |
+🐍 Python |
 🧈 JavaScript
 
 **Design e Ferramentas:**
@@ -28,11 +28,11 @@ Estou aprimorando meu conhecimento nas seguintes áreas:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Debora-Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
-  <img align="center" alt="Debora-JS" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg">  
-  <img align="center" alt="Debora-nodejs" height="30" width="40" src="https://devicon-website.vercel.app/api/nodejs/original.svg">  
+  <img align="center" alt="Debora-JS" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg">
   <img align="center" alt="Debora-Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg">
+  <img align="center" alt="Debora-nodejs" height="30" width="40" src="https://devicon-website.vercel.app/api/nodejs/original.svg">
+  <img align="center" alt="Debora-HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg">      
   <img align="center" alt="Debora-Figma" height="30" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg">
-  <img align="center" alt="Debora-HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg">
 </div>
   
   ##
